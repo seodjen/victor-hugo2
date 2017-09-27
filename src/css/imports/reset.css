@@ -1,6 +1,3 @@
 body {
   font-size: 16px;
-
-@media{     //모바일 가로해상도
-img, video{width:100%}
 }

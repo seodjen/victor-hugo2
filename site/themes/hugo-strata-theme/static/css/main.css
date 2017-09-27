@@ -3156,3 +3156,7 @@
 	 font-size: 20px;
 	 line-height: 36px;
  }
+
+img {
+    width: 100%;
+}
