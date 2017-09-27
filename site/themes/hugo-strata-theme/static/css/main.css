@@ -3157,6 +3157,6 @@
 	 line-height: 36px;
  }
 
-img {
-    width: 100%;
+ img {
+    max-width: 100%;
 }
