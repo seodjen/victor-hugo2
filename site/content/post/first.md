@@ -9,4 +9,4 @@ title = "first"
 ## 우웅 이거 좋아
 그냥 써보는 사진 첨부
 
-![image.jpg](./data/image.jpg)
+![image.jpg](/img/image.jpg)
